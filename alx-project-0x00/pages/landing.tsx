@@ -11,7 +11,7 @@ const Landing: React.FC = () => {
     <div className="space-x-4">
       <Button title="Small" styles="text-sm px-3 py-1 rounded-md" />
       <Button title="Medium" styles="text-base px-4 py-2 rounded-md" />
-      <Button title="Large" styles="text-lg px-6 py-3 rounded-md" />
+      <Button title="Large" styles="text-lg px-6 py-3 rounded-lg" />
     </div>
 
     {/* Shape variants with required strings */}
